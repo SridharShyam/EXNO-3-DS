@@ -31,7 +31,12 @@ We use this categorical data encoding technique when the features are nominal(do
 • Yeojohnson method
 
 # CODING AND OUTPUT:
-       # INCLUDE YOUR CODING AND OUTPUT SCREENSHOTS HERE
+![ds1](https://github.com/user-attachments/assets/7a8748d7-5ee3-40da-a57f-6966683b1f33)
+![ds2](https://github.com/user-attachments/assets/c62bbf2e-3883-4ff3-9623-1f4de92ed0ee)
+![ds3](https://github.com/user-attachments/assets/3ebbbc96-4c66-4544-94da-88017d0fc22c)
+![ds4](https://github.com/user-attachments/assets/579ada6a-0359-43eb-b428-ae7f9867c82d)
+![ds5](https://github.com/user-attachments/assets/30161c6a-39f1-457d-9ab6-93cb8240cf1f)
+
 # RESULT:
        # INCLUDE YOUR RESULT HERE
 
