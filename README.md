@@ -16,12 +16,19 @@ STEP 5:Save the data to the file.
 
 ## FEATURE ENCODING:
 1. Ordinal Encoding
+
 An ordinal encoding involves mapping each unique label to an integer value. This type of encoding is really only appropriate if there is a known relationship between the categories. This relationship does exist for some of the variables in our dataset, and ideally, this should be harnessed when preparing the data.
+
 2. Label Encoding
+
 Label encoding is a simple and straight forward approach. This converts each value in a categorical column into a numerical value. Each value in a categorical column is called Label.
+
 3. Binary Encoding
+
 Binary encoding converts a category into binary digits. Each binary digit creates one feature column. If there are n unique categories, then binary encoding results in the only log(base 2)ⁿ features.
+
 4. One Hot Encoding
+
 We use this categorical data encoding technique when the features are nominal(do not have any order). In one hot encoding, for each level of a categorical feature, we create a new variable. Each category is mapped with a binary variable containing either 0 or 1. Here, 0 represents the absence, and 1 represents the presence of that category.
 
 ## Methods Used for Data Transformation:
@@ -40,6 +47,7 @@ We use this categorical data encoding technique when the features are nominal(do
 ![ds3](https://github.com/user-attachments/assets/3ebbbc96-4c66-4544-94da-88017d0fc22c)
 ![ds4](https://github.com/user-attachments/assets/579ada6a-0359-43eb-b428-ae7f9867c82d)
 ![ds5](https://github.com/user-attachments/assets/30161c6a-39f1-457d-9ab6-93cb8240cf1f)
+![Screenshot 2024-09-25 211304](https://github.com/user-attachments/assets/a6e50a65-7899-417c-829e-9ec3e98d79b8)
 ![ds6](https://github.com/user-attachments/assets/9386072d-ed2a-49c7-bc2d-d6dd7ecab7bd)
 ![ds7](https://github.com/user-attachments/assets/abb98c61-cf91-465b-a8e3-26e49eb60a4e)
 ![ds8](https://github.com/user-attachments/assets/387a160e-f234-42c2-b331-3c3033724600)
